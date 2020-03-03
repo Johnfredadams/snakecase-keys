@@ -5,6 +5,7 @@ var snakeCase = require('to-snake-case')
 
 module.exports = function (obj, options) {
   options = Object.assign({ deep: true, exclude: [] }, options)
+  // watch out with this
 
   return map(obj, function (key, val) {
     return [
