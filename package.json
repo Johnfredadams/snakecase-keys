@@ -30,7 +30,7 @@
     "index.d.ts"
   ],
   "dependencies": {
-    "map-obj": "git+https://git@github.com/johnfredadams/map-obj.git",",
+    "map-obj": "git+https://git@github.com/johnfredadams/map-obj.git",
     "to-snake-case": "^1.0.0"
   },
   "engines": {
